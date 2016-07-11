@@ -1,19 +1,28 @@
-
-    
-#jumbo {
-    position: relative;
-    background: url(Clock.jpeg) center center;
-    width: 100%;
-    height: 100%;
+.intro-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("abstract-mosaic-background.png") no-repeat center center;
     background-size: cover;
-     margin: 0px;
-    overflow: hidden;
 }
-    
 
 
-body{
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
     
-    margin: 0px;
-    padding: 0px;
+}
+
+
+.intro-message{
+    padding-top: 20%;
+    padding-bottom: 20%;
+    text-align: left;
+    
+}
+
+.navbar-default {
+     background-color:transparent; 
+     border-color:transparent;
 }
