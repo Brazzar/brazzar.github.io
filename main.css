@@ -1,0 +1,176 @@
+/* Navigation*/
+
+#lmn{
+    
+ font-family: 'Galada', cursive;
+ 
+}
+
+.navbar-brand{
+    padding: 11px;}
+
+/* First subsection */
+#tot{
+    padding-left: 250px;
+    
+}
+.intro-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    color: #f8f8f8;
+    background: url("Clock.jpeg") no-repeat center center;
+    background-size: cover;
+    
+}
+.intro-header h1{
+    
+    font-size: 60px;
+    padding-left: 60px;
+    font-family: 'Muli', sans-serif;    
+
+
+}
+.intro-header h3 {
+    padding-right: 76px;
+    margin-top: 24px;
+    font-family: 'Muli', sans-serif;
+ text-align:center;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    
+}
+
+
+.intro-message{
+    padding-top: 40%;
+    padding-bottom:40%;
+   
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+
+.button{
+    
+    padding-right: 110px;
+    margin-top: 20px;
+    border-radius: 0px;
+     text-align:center;
+    font-family: 'Muli', sans-serif;
+}
+
+/*main text*/
+.maintext{
+    font-family: 'Muli', sans-serif;
+    text-align: center;
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
+
+
+/*second subsection*/
+.teach{
+    
+    background: url("0006.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.teachtext{
+    text-align: right;
+    color: white;
+    font-family: 'Muli',sans-serif;
+    padding-top: 20%;
+    padding-bottom: 40%;
+}
+
+.teachtext h1 {
+    
+font-size: 40px;
+}
+
+.teachtext p{
+    
+    font-size: 22px;
+}
+
+
+/* third subsection */
+
+
+.middleintro{
+    background:url("Learn.png")no-repeat center center;
+    background-size: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    
+    
+}
+.middletext{
+    color: white;
+    text-align: center;
+    padding-top: 60%;
+    padding-bottom: 60%;
+    font-family: 'Muli', sans-serif;
+    
+}
+ 
+.middletext h1{
+    font-family: 'Muli',sans-serif;
+    font-size: 45px;
+    text-align: center;
+    
+}
+.middletext p{
+    font-family: 'Muli',sans-serif;
+    margin-top: 25px;
+    font-size: 22px;
+}
+.middletext button{
+     font-family: 'Muli',sans-serif;
+   
+    
+}
+
+#ten{
+background-color:black;
+min-height:50px;
+margin-top:0px !important;
+    font-family: 'Muli',sans-serif;
+}
+
+
+/* Media query */
+
+
+ /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
